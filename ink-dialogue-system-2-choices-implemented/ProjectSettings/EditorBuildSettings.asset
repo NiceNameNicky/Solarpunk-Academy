@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/C0 MENU.unity
+    guid: d9da900317f9524489ce53f7e65cdc30
+  - enabled: 1
+    path: Assets/Scenes/C1.1 WINDOW.unity
+    guid: 5f783ad186bc38c48afb52e3fcccc9d2
+  - enabled: 1
+    path: Assets/Scenes/C1.2 BLACK.unity
+    guid: 980d470e5061a9d40a5b284fc6386752
+  - enabled: 1
+    path: Assets/Scenes/C1.3 FOREST.unity
+    guid: 831758aae300333499a03d75f36063fd
+  - enabled: 1
+    path: Assets/Scenes/C1.4 HILL.unity
+    guid: 4a15aa702092b6a4a8c770d93017f6c4
+  - enabled: 1
+    path: Assets/Scenes/C1.5 SCHOOL.unity
+    guid: 0ec37605cd1275346bb648d6cf39a7fc
+  - enabled: 1
+    path: Assets/Scenes/C1.6 JAGGER.unity
+    guid: 8d88123b673a9f649a5e7005b7b0c402
+  - enabled: 1
+    path: Assets/Scenes/C1.7 ROOM.unity
+    guid: 00f08cd0cc06e124fb6c0c58e4aeb6e5
+  - enabled: 1
+    path: Assets/Scenes/C1.8 NIGHT.unity
+    guid: 783775783029bc849a2a167b04a4366e
+  - enabled: 1
+    path: Assets/Scenes/C0.1 CREDIT.unity
+    guid: e599124195149204bb79db030cb2ef82
+  - enabled: 1
+    path: Assets/Scenes/C0.2 ALPHA END.unity
+    guid: e2a66b8ed7756da4eb503bc4fc3678db
+  - enabled: 0
+    path: Assets/Scenes/Old/1.1 Window.unity
+    guid: bf0abe6ae2dac00469865c3914ac4d53
+  - enabled: 0
+    path: Assets/Scenes/Old/1.2 Forest.unity
+    guid: ed49474d60f27b84cb794cbe2e845b6f
+  - enabled: 0
+    path: Assets/Scenes/1.2.2 Front Gate.unity
+    guid: a3b556367e0f1e549ae1b3e8c4ca4dec
+  - enabled: 0
+    path: Assets/Scenes/1.3 Porch.unity
+    guid: 34005f898f335c44f9c9ff957e2221d8
+  - enabled: 0
+    path: Assets/Scenes/1.4 Principal's Office.unity
+    guid: b625dc40053f2ad4babc0cfc256bd6e7
+  - enabled: 0
+    path: Assets/Scenes/Tests/Test.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 2ea68e328b9896345b249167d5c7c22b, type: 2}

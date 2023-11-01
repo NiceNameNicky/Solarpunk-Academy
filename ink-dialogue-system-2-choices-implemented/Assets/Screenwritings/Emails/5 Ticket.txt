@@ -1,0 +1,19 @@
+Dear River,
+
+Congratulations! Your flight from MTE(Montrose International Airport) to HVL(Heathville County Airport) has been booked.
+
+       MTE - HVL
+Departure   Mar 16, 11:25
+Arrival     Mar 16, 13:41
+
+-------------------------
+
+First Class     $2,125.00
+Extra baggage   $349.00
+On-Flight Meal  $79.95
+
+Total           $2,553.95
+
+We will see you on board. Enjoy your flight!
+
+Cloud Nine Airlines
